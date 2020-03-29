@@ -1,0 +1,14 @@
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\Scalable.Model.deps.json
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\Scalable.Model.dll
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\Scalable.Model.pdb
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.csprojAssemblyReference.cache
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.csproj.CoreCompileInputs.cache
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.AssemblyInfoInputs.cache
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.AssemblyInfo.cs
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.dll
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.pdb
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\Engine\MLModel.zip
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\ScalableMLModelOnWebAPIML.Model.dll
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\bin\Release\netstandard2.0\ScalableMLModelOnWebAPIML.Model.pdb
+C:\Users\C5\Desktop\machinelearning-samples-master\samples\csharp\end-to-end-apps\ScalableMLModelOnWebAPI-Custom\src\Scalable.Model\obj\Release\netstandard2.0\Scalable.Model.csproj.CopyComplete
