@@ -1,14 +1,33 @@
 el proyecto se debe publicar en azure como: .net 4.7 | 32 bits
 
 Net
+
+
 4.8
+
+
 32 bits
+
+
 Clasica
+
+
 Se permite todo
+
+
 2.0
+
+
 sockets activados
+
+
 Afinidad Arr: activado
+
+
 Solo HTTPS
+
+
+**proyecto en net core 3.1**
 
 
 
